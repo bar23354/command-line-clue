@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Postman
-- [ ] The Mayor
+- [X] The Postman (ENCONTRADO EN ARCHIVES)
+- [X] The Mayor (ENCONTRADO EN LA ESCUELA)
 - [ ] The Tailor
 
 ## Weapons
 - [ ] Paint Brush
-- [ ] Fountain Pen
-- [ ] Brass Candlestick
+- [X] Fountain Pen (ENCONTRADO EN EL MARKET)
+- [X] Brass Candlestick (ENCONTRADO EN LA LIBRERIA)
 
 ## Notes
 *Use this space to record your findings and deductions...*
