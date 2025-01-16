@@ -14,5 +14,6 @@
 *Use this space to record your findings and deductions...*
 Punto 1: Candlebrass encontrado en la biblioteca
 Punto 2: La evidencia nos lleva a la escuela
+Punto 3: Ir al market en las tiendas
 
 Location of the crime is still unknown - the room must have been empty when it happened...
